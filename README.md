@@ -8,7 +8,7 @@ $1 ≤ n ≤ 1000$
 $0 < a_{1≤i≤n} < 100000$
 ## Output Format ##
 
-共有一行輸出，印出 $]\displaystyle\sum_{n=1} ^{\infty} a_i x^i$ 之值
+共有一行輸出，印出 $\displaystyle\sum_{i=1} ^{n} a_i$ 之值
 
 ## Sample Input 1 ##
 ```
