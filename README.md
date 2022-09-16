@@ -1,11 +1,12 @@
 # Print Sum
 ## Problem Descrition ##
-輸入2整數 $a$, $b$, 請印出其之和
+輸入$n$個整數，請印出其之和
 
 ## Input Format ##
-共有一行輸入包含二整數 $a$, $b$
+共有n+1行輸入，其中第一行包含整數 $n$，後面的n行每一行為一個整數$a_{i}$，其中$1 ≤ i ≤ n$
 ## Constraints ##
-$0 < a,b < 100000$
+$1 ≤ n ≤ 1000$
+$0 < a_{1≤i≤n} < 100000$
 ## Output Format ##
 
 共有一行輸出，印出 $a+b$ 的值
