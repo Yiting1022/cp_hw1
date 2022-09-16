@@ -3,7 +3,7 @@
 輸入2整數 $a$, $b$, 請印出其之和
 
 ## Input Format ##
-共有一行輸入包含二整數 $a$,$b$
+共有一行輸入包含二整數 $a$, $b$
 ## Constraints ##
 $0 < a,b < 100000$
 ## Output Format ##
