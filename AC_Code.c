@@ -2,8 +2,14 @@
  
 int main(){
  
-    int a,b;
-    scanf("%d%d",&a,&b);
-    printf("%d",a+b);
+    int n;
+    scanf("%d%d",&n);
+    int sum=0;
+    int input;
+    for(int i=0; i<n; i++){
+        scanf("%d",&input):
+        sum+=input;
+    }
+    printf("%d",sum);
     return 0;
 }
